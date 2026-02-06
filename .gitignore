@@ -1,0 +1,25 @@
+# Backup files
+*.bak
+*.bak.*
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,51 @@
+{
+  "manifest_version": 3,
+  "name": "White & Red Theme",
+  "version": "1.0.2",
+  "description": "Light theme with white/gray base, warm neutrals, and clear red UI accents (no blue/pink).",
+  "theme": {
+    "colors": {
+      "frame": [250, 248, 246],
+      "frame_inactive": [244, 244, 244],
+
+      "toolbar": [244, 244, 244],
+      "toolbar_button_icon": [175, 47, 40],
+      "button_background": [241, 229, 228],
+
+      "tab_text": [175, 47, 40],
+      "tab_background_text": [94, 94, 94],
+      "bookmark_text": [48, 48, 48],
+
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [28, 28, 28],
+
+      "omnibox_border": [175, 47, 40],
+
+      "omnibox_results_bg": [255, 255, 255],
+      "omnibox_results_bg_selected": [241, 229, 228],
+      "omnibox_results_text": [28, 28, 28],
+      "omnibox_results_text_selected": [28, 28, 28],
+      "omnibox_results_text_dimmed": [94, 94, 94],
+      "omnibox_results_text_dimmed_selected": [48, 48, 48],
+      "omnibox_results_url": [175, 47, 40],
+      "omnibox_results_url_selected": [175, 47, 40],
+      "omnibox_results_separator": [232, 232, 232],
+      "omnibox_results_icon": [94, 94, 94],
+      "omnibox_results_icon_selected": [175, 47, 40],
+      "omnibox_results_keyword": [175, 47, 40],
+      "omnibox_results_keyword_selected": [175, 47, 40],
+
+      "ntp_background": [250, 250, 250],
+      "ntp_text": [28, 28, 28],
+      "ntp_link": [175, 47, 40],
+      "ntp_header": [241, 236, 232],
+      "ntp_section": [241, 241, 241]
+    },
+    "tints": {
+      "buttons": [0.0, 0.0, 0.25]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom"
+    }
+  }
+}

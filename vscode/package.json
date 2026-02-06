@@ -1,0 +1,22 @@
+{
+  "name": "white-red-theme",
+  "displayName": "White & Red Theme",
+  "description": "A clean light theme: white/gray background with red accents (UI-focused)",
+  "version": "1.0.4",
+  "publisher": "yumiaoyi-o",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White & Red",
+        "uiTheme": "vs",
+        "path": "./themes/gray-red-light-color-theme.json"
+      }
+    ]
+  }
+}
